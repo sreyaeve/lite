@@ -142,7 +142,7 @@ read -rp "Input ur domain : " -e pp
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e "$green          Install XRAY              $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e "[ ${green}SCRIPT${NC} ] free no licence (lifetime) "
+echo -e "[ ${green}SCRIPT${NC} ] Premium "
 sleep 2
 clear
 wget https://raw.githubusercontent.com/sreyaeve/lite/main/xray/ins-xray.sh && chmod +x ins-xray.sh && ./ins-xray.sh
