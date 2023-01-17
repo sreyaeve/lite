@@ -54,4 +54,4 @@ BBR Booster untuk Trojan, V2Ray dan XRay
 ```
 wget https://raw.githubusercontent.com/sreyaeve/lite/main/file/bbr.sh chmod +x bbr.sh && sed -i -e 's/\r$//' bbr.sh && screen -S bbr ./bbr.sh
 ```
-Tahap test
+Tahap test ya
